@@ -1,6 +1,7 @@
 # Trading Strategy Backtesting Framework
 
 This repository provides a robust framework for backtesting trading strategies, specifically focusing on momentum-based approaches. It allows traders, analysts, and developers to download market data, preprocess it, calculate technical indicators, and evaluate strategy performance across different time intervals.
+![image](https://github.com/user-attachments/assets/7bedbaa6-061b-41c7-8137-e8597d20495a)
 
 ## Features
 
