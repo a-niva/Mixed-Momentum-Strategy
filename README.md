@@ -10,6 +10,8 @@ This repository provides a robust framework for backtesting trading strategies, 
 - **Backtesting Functionality**: Enables strategy testing with custom parameters, including transaction costs, random starting points, and various data intervals.
 - **Automated Data Cleaning**: Filters out datasets with insufficient data to ensure reliability.
 - **Interval-Based Analysis**: Supports multiple intervals (e.g., 1h, 1d, 15m) for granular backtesting.
+- **Pareto Front x Optuna boosting**: Backtest your strategy tweaking hyperparameters, with semi-random walk among combinations.
+![image](https://github.com/user-attachments/assets/cc7ca84c-276d-4cf1-8663-62dae591d3b4)
 
 ## Folder Structure
 
